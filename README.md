@@ -8,7 +8,7 @@
 🐧 **Linux** — `Debian`-first, manual hardening, `LXC/LXD`  
 🛡️ **SecEng** — Threat modeling, detection engineering (`YARA`, `Suricata`), SIEM pipelines  
 
-CRTO · LPIC-1 · BSI §8a · IHK
+CRTO · LPIC-1 · BSI §8a · IHK · [hostettler.pro](https://hostettler.pro)
 
 ---
 
@@ -40,7 +40,3 @@ CRTO · LPIC-1 · BSI §8a · IHK
 | Pending | 7.4 High | Weak Authentication · MD5 Type Juggling |
 | Pending | 7.2 High | SQL Injection · High Privileged |
 | Pending | 6.5 Medium | External File Path Control · File Delete |
-
----
-
-[hostettler.pro](https://hostettler.pro)
