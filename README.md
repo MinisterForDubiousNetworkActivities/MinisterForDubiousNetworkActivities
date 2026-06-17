@@ -29,4 +29,22 @@ CRTO · LPIC-1 · BSI §8a · IHK
 
 ---
 
+## 🗑️ Trash CVEs
+
+*Low-quality findings in low-quality projects with at least a few hundred stars. Still CVEs.*
+
+| CVE | CVSS | Description |
+|-----|------|-------------|
+| Pending | 9.8 Critical | SQL Injection · Unauthenticated |
+| Pending | 9.8 Critical | SQL Injection · Auth Bypass |
+| Pending | 9.3 Critical | Reflected XSS · Unauthenticated |
+| Pending | 9.3 Critical | Reflected XSS · Unauthenticated |
+| Pending | 9.3 Critical | Reflected XSS · Low Privileged |
+| Pending | 8.7 High | Stored XSS · Low Privileged |
+| Pending | 7.4 High | Weak Authentication · MD5 Type Juggling |
+| Pending | 7.2 High | SQL Injection · High Privileged |
+| Pending | 6.5 Medium | External File Path Control · File Delete |
+
+---
+
 [hostettler.pro](https://hostettler.pro)
