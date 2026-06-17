@@ -6,7 +6,7 @@ I don't hate Bill Gates because he's a reptilian lizard injecting 5G chips from 
 
 ---
 
-25. Berlin & Chemnitz. I break things professionally and find vulnerabilities that have been sitting in production for years because nobody bothered to look. Broken software pisses me off. That's the whole reason.
+25 Berlin & Chemnitz. I break things professionally and find vulnerabilities that have been sitting in production for years because nobody bothered to look. Broken software pisses me off. That's the whole reason.
 
 🔴 **Red Teaming** — AD environments, AV/EDR evasion, phishing campaigns, C2 (`Cobalt Strike`, `Sliver`)  
 🐧 **Linux** — `Debian`-first, manual hardening, `LXC/LXD`  
