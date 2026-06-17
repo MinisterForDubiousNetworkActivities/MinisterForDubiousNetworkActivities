@@ -2,13 +2,17 @@
 
 **Security Engineer & Penetration Tester — Germany**
 
-25 Berlin & Chemnitz. I break things professionally and find vulnerabilities that have been sitting in production for years because nobody bothered to look. Broken software pisses me off. That's the whole reason.
+I don't hate Bill Gates because he's a reptilian lizard injecting 5G chips from the hollow earth — I hate him because he invented Windows.
+
+---
+
+25. Berlin & Chemnitz. I break things professionally and find vulnerabilities that have been sitting in production for years because nobody bothered to look. Broken software pisses me off. That's the whole reason.
 
 🔴 **Red Teaming** — AD environments, AV/EDR evasion, phishing campaigns, C2 (`Cobalt Strike`, `Sliver`)  
 🐧 **Linux** — `Debian`-first, manual hardening, `LXC/LXD`  
 🛡️ **SecEng** — Threat modeling, detection engineering (`YARA`, `Suricata`), SIEM pipelines  
 
-CRTO · LPIC-1 · BSI §8a · IHK · [hostettler.pro](https://hostettler.pro)
+CRTO · LPIC-1 · BSI §8a · IHK
 
 ---
 
@@ -32,6 +36,7 @@ CRTO · LPIC-1 · BSI §8a · IHK · [hostettler.pro](https://hostettler.pro)
 | CVE | CVSS | Description |
 |-----|------|-------------|
 | Pending | 9.8 Critical | SQL Injection · Unauthenticated |
+| Pending | 9.8 Critical | SQL Injection · Unauthenticated |
 | Pending | 9.8 Critical | SQL Injection · Auth Bypass |
 | Pending | 9.3 Critical | Reflected XSS · Unauthenticated |
 | Pending | 9.3 Critical | Reflected XSS · Unauthenticated |
@@ -40,3 +45,7 @@ CRTO · LPIC-1 · BSI §8a · IHK · [hostettler.pro](https://hostettler.pro)
 | Pending | 7.4 High | Weak Authentication · MD5 Type Juggling |
 | Pending | 7.2 High | SQL Injection · High Privileged |
 | Pending | 6.5 Medium | External File Path Control · File Delete |
+
+---
+
+[hostettler.pro](https://hostettler.pro)
