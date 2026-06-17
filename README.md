@@ -2,10 +2,6 @@
 
 **Security Engineer & Penetration Tester — Germany**
 
-I don't hate Bill Gates because he's a reptilian lizard injecting 5G chips from the hollow earth — I hate him because he invented Windows.
-
----
-
 25 Berlin & Chemnitz. I break things professionally and find vulnerabilities that have been sitting in production for years because nobody bothered to look. Broken software pisses me off. That's the whole reason.
 
 🔴 **Red Teaming** — AD environments, AV/EDR evasion, phishing campaigns, C2 (`Cobalt Strike`, `Sliver`)  
